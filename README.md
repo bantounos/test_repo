@@ -1,3 +1,3 @@
 # test_repo
 A test repository here.
-Some test text here.
+File for testing, with some test text here.
